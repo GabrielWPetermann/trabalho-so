@@ -1,7 +1,7 @@
-<img width="559" height="500" alt="image" src="https://github.com/user-attachments/assets/356d00ea-c766-4d39-824f-7c1adfa5bc59" /># Trabalho – Conceitos de Sistema Operacional (Processos, IPC, Memória e Arquivos)
+# Trabalho – Conceitos de Sistema Operacional (Processos, IPC, Memória e Arquivos)
 
 Autor: Gabriel W. Petermann  
-Data: (preencher)  
+Data: 14/11/2025 
 
 ---
 
